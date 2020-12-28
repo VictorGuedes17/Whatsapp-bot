@@ -1,0 +1,27 @@
+{
+  "name": "whatsappbot",
+  "version": "1.0.0",
+  "description": "NodeJS and ReactJS. Send a message when firing a certain function.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorGuedes17/Whatsapp-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorGuedes17/Whatsapp-bot/issues"
+  },
+  "homepage": "https://github.com/VictorGuedes17/Whatsapp-bot#readme",
+  "dependencies": {
+    "venom-bot": "^2.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
